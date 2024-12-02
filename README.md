@@ -1,1 +1,1 @@
-# website-uas
+A simple HTML/JS/CSS starter template
